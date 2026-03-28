@@ -1,1 +1,2 @@
 *.pyc
+/Application/__pycache__
