@@ -1,7 +1,8 @@
 import customtkinter as ctk
 import database as db
 from config import COLORS, PHASES
-from camera import CameraFeed
+# to this:
+from camera import CameraMonitor as CameraFeed
 
 
 class FocusApp(ctk.CTk):
