@@ -1,0 +1,3 @@
+*.pyc
+/Application/__pycache__
+/Application/venv
